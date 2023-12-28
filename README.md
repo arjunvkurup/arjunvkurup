@@ -2,9 +2,7 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="center">Software Developer with a focus on Cloud and DevOps with expertise in Large Language models(LLMs)</h3>
+<h4 align="left">Software Developer with a focus on Cloud and DevOps with expertise in Large Language models(LLMs)</h4>
 
 ###
 
