@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="left">Software Developer with a focus on Cloud and DevOps with expertise in Large Language models(LLMs)</h4>
+<h4 align="left">Software Developer with a focus on Cloud and DevOps</h4>
 
 ###
 
-<p align="left">💬 Ask me about DevOps and scaling AI applications</p>
+<p align="left">💬 Ask me about Microservice architectures and Cloud Infrastructures.</p>
 
 ###
 
